@@ -1,7 +1,5 @@
 data("mtcars")
 
-
-par(bg="skyblue")
 boxplot(mtcars$mpg, col="royalblue")
 
 
